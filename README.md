@@ -1,1 +1,2 @@
-GITHUB PROJECT
+This is Student A's
+Project.
